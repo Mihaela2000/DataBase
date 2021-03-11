@@ -1,4 +1,4 @@
-/*BUZDUGAN Mihaela - 311CB */
+/*BUZDUGAN Mihaela */
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
